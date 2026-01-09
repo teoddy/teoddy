@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Teoddy Cayongateoddy
+# Hi there 👋, I'm Teoddy
 
 Welcome to my GitHub profile! I'm a seasoned Application Developer Specialist based in General Mariano Alvarez, Philippines, with a passion for technology, system development, and continuous learning. With over 8 years of experience in IT, I specialize in application development, database administration, and delivering efficient solutions in real estate and banking sectors.
 
