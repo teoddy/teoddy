@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Teoddy Cayongateoddy
+# Hi there 👋, I'm Teoddy
 
 Welcome to my GitHub profile! I'm based in General Mariano Alvarez, Philippines, and I'm passionate about technology, open-source contributions, and continuous learning.
 
