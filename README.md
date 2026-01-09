@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Application+Developer+Specialist;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+Something+New!&center=true&width=500&height=50">
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teoddy&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
-</div>
-
 ---
 
 Welcome to my GitHub profile! 🌟 I'm a seasoned **Application Developer Specialist** based in **General Mariano Alvarez, Philippines**, with a passion for technology, system development, and continuous learning. With **over 8 years** of experience in IT, I specialize in application development, database administration, and delivering efficient solutions in real estate and banking sectors.
