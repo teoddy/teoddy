@@ -16,7 +16,6 @@ I'm dedicated to building robust applications and contributing to open-source pr
 ## Achievements
 - **President's Lister** at PUP-SP Branch with a weighted average of 1.469
 - **Best Presenter** in Public Presentation for CAPSTONE Project 2015
-- **Pull Shark** on GitHub: Earned for merging my first pull request, starting my open-source journey
 - **Active Contributor**: 36 contributions in the last year, showcasing ongoing community engagement
 
 ## Skills & Technologies
