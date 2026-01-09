@@ -32,9 +32,9 @@ I'm dedicated to building **robust applications** and contributing to **open-sou
 ## 💻 Skills & Technologies
 | Category | Details |
 |----------|---------|
-| **Programming Languages** | `VB.net`, `C#.net`, `SSRS`, `MS SQL`, `OutSystems`, `PRES`, `HTML`, `ASP.net`, `JAVA`, `C# MVC` |
-| **Tools & Platforms** | `Tableu`, `SuperSet`, `Jasper Report` , `GitHub`, `PowerBI`, `ASPRunner`, `API (backend Node.js)`, `MSSQL Database Administration` |
-| **Software Proficiency** | MS Office (`Word`, `Excel`, `PowerPoint`, `Visio`) |
+| **Programming Languages** | `VB.net`, `C# & C#.net`, `SSRS`, `OutSystems`, `PRES`, `HTML`, `ASP.net`, `JAVA` |
+| **Databases** |SQLite, MongodDb, MySQL, MSSQL, PostgreSQL|
+| **Tools & Platforms** | `Tableu`, `SuperSet`, `Jasper Report` , `GitHub`, `PowerBI`, `ASPRunner`, `API (backend Node.js)`, MS Office (`Word`, `Excel`, `PowerPoint`, `Visio`) |
 | **Other** | Hardware Servicing, System Analysis & Design, Unit Testing, Documentation |
 
 
