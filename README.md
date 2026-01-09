@@ -33,7 +33,7 @@ I'm dedicated to building robust applications and contributing to open-source pr
 
 - **Sr. Programmer** at Northpoint Development Bank, Inc. (Thrift Bank) – 3 years 9 months  
   - Developed reports and applications, maintained legacy systems  
-  - Managed communications with third-party vendors (e.g., FPTI) and ICC records  
+  - Managed communications with third-party vendors (e.g., FPTI) and CIC records  
   - Oversaw database-related tasks for optimal performance
 
 - **Programmer** at SP One Source Solutions, Inc. (Service Provider) – 1 year 2 months  
