@@ -19,8 +19,8 @@ I'm dedicated to building robust applications and contributing to open-source pr
 - **Active Contributor**: 36 contributions in the last year, showcasing ongoing community engagement
 
 ## Skills & Technologies
-- **Programming Languages**: Advanced in VB.net, C#.net; Intermediate in SSRS, MS SQL, OutSystems, PRES; Basic in HTML, ASP.net, JAVA, C# MVC
-- **Tools & Platforms**: GitHub, PowerBI, ASPRunner, API (backend Node.js), MSSQL Database Administration
+- **Programming Languages**: VB.net, C#.net, SSRS, MS SQL, PRES, HTML, ASP.net, JAVA, C# MVC, React.js, Node.js
+- **Tools & Platforms**: OutSystems, Jasper Report, SuperSet, Tableu, GitHub, PowerBI, ASPRunner, API (backend Node.js), MSSQL Database Administration
 - **Software Proficiency**: MS Office (Word, Excel, PowerPoint, Visio)
 - **Other**: Hardware Servicing, System Analysis & Design, Unit Testing, Documentation
 
